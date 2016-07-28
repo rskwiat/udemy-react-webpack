@@ -1,0 +1,13 @@
+.container{
+  margin: 40px auto;
+}
+
+.text-help{
+  margin-top: 5px;
+  font-style: italic;
+  font-size: 11px;
+}
+
+form a{
+  margin-left: 10px;
+}
