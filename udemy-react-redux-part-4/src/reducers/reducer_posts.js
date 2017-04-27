@@ -1,7 +1,6 @@
 import { FETCH_POSTS, FETCH_POST } from '../actions/index';
 import { } from '';
 
-
 const INTIAL_STATE = { all: [], post: null };
 
 export default function(state = INTIAL_STATE, action){

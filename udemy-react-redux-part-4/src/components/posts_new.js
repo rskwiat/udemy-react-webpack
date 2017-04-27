@@ -4,7 +4,7 @@ import { createPost } from '../actions/index';
 import { Link } from 'react-router';
 
 
-class PostsNew extends Component{
+class PostsNew extends Component {
 
   static contextTypes = {
     router: PropTypes.object

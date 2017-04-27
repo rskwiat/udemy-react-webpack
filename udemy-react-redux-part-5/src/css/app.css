@@ -1,0 +1,19 @@
+#app{
+  margin: 40px 0;
+}
+
+h1,h2,h3{
+  font-weight: normal;
+}
+
+.pull-right{
+  float: right;
+}
+
+.posts-header{
+  margin-bottom: 20px;
+}
+
+form a {
+  margin-left: 10px;
+}
